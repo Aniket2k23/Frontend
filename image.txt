@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Inserting the images </h1>
+    <img src="./img/First.jpg" alt="Something went wrong" width="430px" height="300px" title="this is the first image">
+    <img src="./img/Second.jpg" alt="Error 404" width="430px" height="300px">
+    <img src="./img/Third.jpg" alt="Error 404" width="430px" height="300px">
+</body>
+
+</html>
